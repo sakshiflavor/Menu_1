@@ -43,7 +43,7 @@
         
 <form action="https://sakshiflavor.github.io/Menu_4/" style="text-align: center;">
   <button type="submit">Puchka</button></form>
-        </form >
+        
           <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
   <button type="submit">Pizza</button></form>
             
@@ -52,13 +52,13 @@
               
    <form action="https://sakshiflavor.github.io/Menu_7/" style="text-align: center;">
   <button type="submit">Fries/Nuggets/PavGarden </button></form>
-              </form>
+         
                 <form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
   <button type="submit">Chaat</button></form>
                  
   <form action="https://sakshiflavor.github.io/Menu_9/" style="text-align: center;">
   <button type="submit">Momo/Garlic Bread</button></form>
-    </form>
+
   <form action="https://sakshiflavor.github.io/Menu_10/" style="text-align: center;">
   <button type="submit">Makka_Mug/Nachos/C.P Special</button></form>
     
