@@ -35,13 +35,13 @@
  <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Tea&Coffee</button>
     
-    <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
+  <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
   <button type="submit">Maggi</button>
 
-      <form action="https://sakshiflavor.github.io/Menu_3/" style="text-align: center;">
+      <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Burger</button>
         
-        <form action="https://sakshiflavor.github.io/Menu_4/" style="text-align: center;">
+         <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Puchka</button>
         </form >
           <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
