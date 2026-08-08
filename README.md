@@ -1,5 +1,3 @@
-
-  <title>Chaat Puchka SahakarNagar Menu </title>
   
   <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
@@ -8,7 +6,7 @@
 </div>
   
   
-</head>
+
 <body style="background-color: gray;">
 </body>
 <body>
@@ -81,6 +79,5 @@
   <button type="submit">Shakes/Cold_Coffee</button>
 </form>
      
-</body>
-</html>
+
 
