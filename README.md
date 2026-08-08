@@ -1,8 +1,4 @@
 
-<html>
-
-<head>
-
   <title>Chaat Puchka SahakarNagar Menu </title>
   
   <div style="text-align: center;">
