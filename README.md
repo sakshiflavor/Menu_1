@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>Chaat Puchka SahakarNagar Menu </title>
   
   <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
@@ -6,7 +13,7 @@
 </div>
   
   
-
+</head>
 <body style="background-color: gray;">
 </body>
 <body>
@@ -31,9 +38,7 @@
      <h2 style="text-align: Center; color: Orange;">
     Navigations
     <br>
- 
- 
-<form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
+  <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Tea&Coffee</button></form>
     
  <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
@@ -44,7 +49,7 @@
 <form action="https://sakshiflavor.github.io/Menu_4/" style="text-align: center;">
   <button type="submit">Puchka</button></form>
         
-  <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
+   <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
   <button type="submit">Pizza</button></form>
             
   <form action="https://sakshiflavor.github.io/Menu_6/" style="text-align: center;">
@@ -53,7 +58,7 @@
    <form action="https://sakshiflavor.github.io/Menu_7/" style="text-align: center;">
   <button type="submit">Fries/Nuggets/PavGarden </button></form>
          
-   <form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
+  <form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
   <button type="submit">Chaat</button></form>
                  
   <form action="https://sakshiflavor.github.io/Menu_9/" style="text-align: center;">
@@ -77,3 +82,73 @@
    <form action="https://sakshiflavor.github.io/Menu_15/" style="text-align: center;">
   <button type="submit">Shakes/Cold_Coffee</button>
 </form>
+       <style>
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropbtn {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 16px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      border-radius: 4px;
+    }
+
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="dropdown">
+    <button class="dropbtn">Go to Page ▾</button>
+    <div class="dropdown-content">
+      <a href="https://sakshiflavor.github.io/Menu_1/">Tea&Coffee</a>
+      <a href="https://sakshiflavor.github.io/Menu_2/">Maggi</a>
+      <a href="https://sakshiflavor.github.io/Menu_3/">Burger</a>
+      <a href="https://sakshiflavor.github.io/Menu_4/">Puchka</a>
+      <a href="https://sakshiflavor.github.io/Menu_5/">Pizza</a>
+      <a href="https://sakshiflavor.github.io/Menu_6/">Sandwich</a>
+      <a href="https://sakshiflavor.github.io/Menu_7/">Fries/Nuggets/PavGarden</a>
+      <a href="https://sakshiflavor.github.io/Menu_8/">Chaat</a>
+      <a href="https://sakshiflavor.github.io/Menu_9/">Momo/Garlic Bread</a>
+      <a href="https://sakshiflavor.github.io/Menu_10/">Makka_Mug/Nachos/C.P Special</a>
+      <a href="https://sakshiflavor.github.io/Menu_11/"> Pasta </a>
+      <a href="https://sakshiflavor.github.io/Menu_12/">Roll/Tortilla</a>
+      <a href="https://sakshiflavor.github.io/Menu_13/">Lassi/Butter Milk</a>
+      <a href="https://sakshiflavor.github.io/Menu_14/">Mojito </a>
+      <a href="https://sakshiflavor.github.io/Menu_15/">Shakes/Cold_Coffee</a>
+    </div>
+  </div>
+
+</body>
