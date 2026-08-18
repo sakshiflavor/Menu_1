@@ -1,6 +1,5 @@
 
 <html>
-
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
@@ -14,7 +13,7 @@
   
   
 </head>
-<body style="background-color: black;">
+<body style="background-color: dark-gray;">
 </body>
 <body>
  
@@ -22,7 +21,7 @@
     Tea & Coffee
     <br>
     <h3>
-<p style="word-spacing: 200px; text-align: Center; color: neon_green;"">Kadak_Tea  ₹20</p>
+<p style="word-spacing: 200px; text-align: Center;">Kadak_Tea  ₹20</p>
       <p style="word-spacing: 195px; text-align: Center;">Ginger_Tea  ₹25</p>
       <p style="word-spacing: 197px; text-align: Center;">Elaichi_Tea  ₹25</p>
       <p style="word-spacing: 193px; text-align: Center;">Masala_Tea  ₹25</p>
