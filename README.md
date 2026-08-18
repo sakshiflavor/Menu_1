@@ -13,7 +13,7 @@
   
   
 </head>
-<body style="background-color: dark-gray;">
+<body style="background-color: gray;">
 </body>
 <body>
  
