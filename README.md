@@ -107,13 +107,15 @@
     </div>
   </div>
 <br>
-<a href="https://www.swiggy.com/city/bangalore/chaat-puchka-central-bangalore-rest1338274" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background-color: #FC8019; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 12px 12px; border-radius: 8px; text-decoration: none; border: none; cursor: pointer;">
+<br>
+<br>
+<a href="https://www.swiggy.com/city/bangalore/chaat-puchka-central-bangalore-rest1338274" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background-color: #FC8019; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; padding: 12px 24px; border-radius: 8px; text-decoration: none; border: none; cursor: pointer;">
   <svg width="10" height="20" viewBox="0 0 24 24" fill="#FFFFFF">
     <path d="M12 2C8.5 2 5.5 4.5 5 8c-.5 3.5 1.5 7 4.5 10.5L12 22l2.5-3.5C17.5 15 19.5 11.5 19 8c-.5-3.5-3.5-6-7-6zm0 8.5c-1.4 0-2.5-1.1-2.5-2.5S10.6 5.5 12 5.5s2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5z"/>
   </svg>
   Order on Swiggy
 </a>
-
+<br>
 
 <a href="https://www.zomato.com/bangalore/chaat-puchka-sahakara-nagar-bangalore/order" target="_blank" style="display: inline-flex; align-items: center; gap: 15px; background-color: #E23744; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; padding: 12px 24px; border-radius: 8px; text-decoration: none; border: none; cursor: pointer;">
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
