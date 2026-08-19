@@ -23,16 +23,16 @@
     Tea & Coffee
     <br>
     <h3>
-<p style="word-spacing: 200px; text-align: Center; color: #8AB4F8;">Kadak_Tea  ₹20</p>
-      <p style="word-spacing: 195px; text-align: Center; color: #8AB4F8;">Ginger_Tea  ₹25</p>
-      <p style="word-spacing: 197px; text-align: Center; color: #8AB4F8;">Elaichi_Tea  ₹25</p>
-      <p style="word-spacing: 193px; text-align: Center; color: #8AB4F8;">Masala_Tea  ₹25</p>
-      <p style="word-spacing: 206px; text-align: Center; color: #8AB4F8;">Clove_Tea  ₹25</p>
-      <p style="word-spacing: 167px; text-align: Center; color: #8AB4F8;">Chocolate_Tea  ₹35</p>
-      <p style="word-spacing: 132px; text-align: Center; color: #8AB4F8;">Honey_Ginger_Tea  ₹35</p>
-      <p style="word-spacing: 236px; text-align: Center; color: #8AB4F8;">Coffee ₹20</p>
-      <p style="word-spacing: 138px; text-align: Center; color: #8AB4F8;">Chocolate_Coffee  ₹50</p>
-      <p style="word-spacing: 164px; text-align: Center; color: #8AB4F8;">Hot_Chocolate  ₹60</p>
+<p style="word-spacing: 200px; text-align: Center; color: white;">Kadak_Tea  ₹20</p>
+      <p style="word-spacing: 195px; text-align: Center; color: white;">Ginger_Tea  ₹25</p>
+      <p style="word-spacing: 197px; text-align: Center; color: white;">Elaichi_Tea  ₹25</p>
+      <p style="word-spacing: 193px; text-align: Center; color: white;">Masala_Tea  ₹25</p>
+      <p style="word-spacing: 206px; text-align: Center; color: white;">Clove_Tea  ₹25</p>
+      <p style="word-spacing: 167px; text-align: Center; color: white;">Chocolate_Tea  ₹35</p>
+      <p style="word-spacing: 132px; text-align: Center; color: white;">Honey_Ginger_Tea  ₹35</p>
+      <p style="word-spacing: 236px; text-align: Center; color: white;">Coffee ₹20</p>
+      <p style="word-spacing: 138px; text-align: Center; color: white;">Chocolate_Coffee  ₹50</p>
+      <p style="word-spacing: 164px; text-align: Center; color: white;">Hot_Chocolate  ₹60</p>
       
     </h3>
     <br>
