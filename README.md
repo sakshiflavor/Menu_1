@@ -1,6 +1,12 @@
 
 <html>
-<head>
+
+
+  <head>
+    <title>Your Page Title</title>
+    <!-- Custom Logo / Favicon -->
+    <link rel="icon" type="image/png" href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
+
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
