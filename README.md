@@ -143,8 +143,8 @@ International Airport Road, CHAAT PUCHKA 104/6,Byatarayanapura 234, Bengaluru, K
          <h2 style="text-align: Center; color: Orange;">
    Contact Us For 
        Fanchise/Query
-       <br>
-       <br>
+         </h2>
+      
        9900190899 / 9741348438
 
 
